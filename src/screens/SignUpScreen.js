@@ -27,7 +27,7 @@ const SignUpScreen = ({ navigation }) => {
 
 SignUpScreen.navigationOptions = () => {
     return {
-      headerShown: false,
+      headerShown: false
     };
 };
 
@@ -36,7 +36,6 @@ const styles = StyleSheet.create({
         flex: 1,
         justifyContent: 'center',
         marginBottom: 250
-
     }
 });
 
