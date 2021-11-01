@@ -22,7 +22,7 @@ const SignInScreen = () => {
             />
             <NavLink 
                 routeName="Signup"
-                text="You don't have and account? Sign Up here!"
+                text="Don't you have account? Sign Up here!"
             />
         </View>
     );
